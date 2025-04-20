@@ -14,3 +14,7 @@
 2. 在管理面板里添加脚本，把仓库中的脚本文件复制进去即可
 3. 如果在学习通答题界面没有看见'导出题目为JSON'按钮，请提个Issues，并把答题网址放在这个Issues中。
 4. 也可以联系我邮箱'linjiong2020@outlook.com'。
+
+# 注意事项
+
+1.请把getJson.py文件中的apikey换成自己的apikey
